@@ -1,0 +1,11 @@
+{
+    "zip_file_path": "path/to/zip/file.zip",
+    "model_path": "path/to/save/model",
+    "checkpoint_dir": "path/to/save/checkpoints/",
+    "checkpoint_rate": 0.5,
+    "epochs": 50,
+    "batch_size": 32,
+    "optimizer": "adam",
+    "loss": "mse",
+    "lstm_units": 64
+}
